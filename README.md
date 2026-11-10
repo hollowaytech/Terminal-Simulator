@@ -9,9 +9,11 @@ This repository houses versions of a C++ application meant to model an operating
   - Memory Management: Usage of input values and variable tracking.
 ## 🤖 Current Features
 - Commands: Utilizes input values for certain unique commands.
-- Examples:
-  - "help": Displays all commands and syntax references.
-  - "terminate": Terminates terminal.
+  - Examples:
+    - "help": Displays all commands and syntax references.
+    - "terminate": Terminates terminal.
+- Functions and Arrays:
+  - Two major C++ concepts that are used in terminal for specific commands. 
 ## 📈 Development Roadmap
 - Version 1.0:
   - Developed foundational version of terminal.
