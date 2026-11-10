@@ -14,4 +14,6 @@ This repository houses versions of a C++ application meant to model an operating
   - "terminate": Terminates terminal.
 ## 📈 Development Roadmap
 - Version 1.0:
-  - Developed foundational version of terminal. 
+  - Developed foundational version of terminal.
+- Version 2.0:
+  - Added functions, arrays, and new commands. 
